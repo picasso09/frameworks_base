@@ -1294,4 +1294,6 @@
     <!-- ************************************************************************* -->
 
     <dimen name="keyguard_unfold_translation_x">16dp</dimen>
+    <dimen name="status_bar_battery_icon_height_landscape_ios16">12.0dip</dimen>
+    <dimen name="status_bar_battery_icon_width_landscape_ios16">24.0dip</dimen>
 </resources>
